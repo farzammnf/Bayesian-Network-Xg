@@ -4,8 +4,8 @@ This project builds an expected goals (xG) model using StatsBomb Open Data. It c
 
 ## Files
 
-- `notebooks/extracting-data.ipynb`: downloads and prepares StatsBomb event data.
-- `notebooks/analysis.ipynb`: full EDA, feature engineering, Bayesian Network modeling, evaluation, and query checks.
+- `extracting-data.ipynb`: downloads and prepares StatsBomb event data.
+- `analysis.ipynb`: full EDA, feature engineering, Bayesian Network modeling, evaluation, and query checks.
 - `report/report.pdf`: final project report.
 - `slides/presentation.pdf`: project presentation slides.
 - `figures/`: saved figures used in the report and notebook.
